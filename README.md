@@ -1,4 +1,4 @@
-# Kotlin Tic Tac Toe Game
+# Tic Tac Toe Game
 
 Welcome to the Kotlin Tic Tac Toe Game repository! This project is a simple implementation of the classic Tic Tac Toe game using the Kotlin programming language.
 
