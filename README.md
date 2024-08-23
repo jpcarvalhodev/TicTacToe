@@ -17,13 +17,13 @@ Welcome to the Kotlin Tic Tac Toe Game repository! This project is a simple impl
 1. Clone this repository:
 
 ```
-git clone https://github.com/jpcarvalhodev/TicTacToe.git
+git clone https://github.com/jpcarvalhodev/tic_tac_toe.git
 ```
 
 2. Navigate into the project directory:
 
 ```
-cd TicTacToe
+cd tic_tac_toe
 ```
 
 3. Compile the Kotlin code:
